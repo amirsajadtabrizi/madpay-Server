@@ -1,0 +1,15 @@
+.vs/
+Common/bin/
+Common/obj/
+CorTestnew/bin/
+CorTestnew/obj/
+Data/bin/
+Data/obj/
+Entities/bin/
+Entities/obj/
+Services/bin/
+Services/obj/
+WebFramework/bin/
+WebFramework/obj/
+api/bin/
+api/obj/
